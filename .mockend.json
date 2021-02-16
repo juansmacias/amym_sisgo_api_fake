@@ -1,8 +1,8 @@
 {
-    "entities":{
-        "product_types":"product_type[]"
+    "Entities":{
+        "product_types":"ProductType[]"
     },
-    "product_type":{
+    "ProductType":{
         "id":"int",
         "Name":"string"
     },
