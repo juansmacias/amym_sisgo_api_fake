@@ -1,0 +1,9 @@
+{
+    "entities":{
+        "product_types":"product_type[]"
+    },
+    "product_type":{
+        "id":"int",
+        "Name":"string"
+    }
+}
