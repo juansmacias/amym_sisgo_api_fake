@@ -1,6 +1,6 @@
 {
     "Entities":{
-        "product_types":"ProductType[]"
+        "productTypes":"ProductType[]"
     },
     "ProductType":{
         "id":"int",
