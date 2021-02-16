@@ -5,5 +5,15 @@
     "product_type":{
         "id":"int",
         "Name":"string"
+    },
+    "Post": {
+        "title": "string",
+        "views": "int",
+        "published": "boolean",
+        "comments": "Comment[]"
+    },
+    "Comment": {
+        "body": "string",
+        "post": "Post"
     }
 }
